@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Naski1">Muhammad Ikhsan Mujianto</a></h1>
 <h3 align="center">A passionate web developer from Sumberasih, Probolinggo, Indonesia</h3>
-<img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
+<img align="right" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
 
 - 🔭 I’m currently working on **PP Nurul Jadid**
 
