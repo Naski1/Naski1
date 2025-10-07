@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/iksan.mujianto.98" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="M ikhsan M" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/naski_33" target="blank">
+<a href="https://www.instagram.com/sanz_eror" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ikhsan_Mujianto" height="30" width="40" />
 </a>
 <a href="https://wa.me/+6281455095274" target="blank">
